@@ -1,9 +1,9 @@
-pkgbase = brother-dcpj110
+pkgbase = brother-dcpj100
 	pkgdesc = CUPS driver for Brother DCP-J110 printer
 	pkgver = 3.0.0
 	pkgrel = 666
 	url = http://solutions.brother.com/linux/en_us/index.html
-	install = dcpj110.install
+	install = dcpj100.install
 	arch = i686
 	arch = x86_64
 	license = custom:Brother Industries
@@ -16,5 +16,5 @@ pkgbase = brother-dcpj110
 	md5sums = 978e10976937951c3e5297117356cae3
 	md5sums = 8933006312bde91ccc592be599562c9a
 
-pkgname = brother-dcpj110
+pkgname = brother-dcpj100
 
