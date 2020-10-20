@@ -1,5 +1,5 @@
-pkgbase = brother-dcpj105
-	pkgdesc = CUPS driver for Brother DCP-J105 printer
+pkgbase = brother-dcpj110
+	pkgdesc = CUPS driver for Brother DCP-J110 printer
 	pkgver = 3.0.0
 	pkgrel = 666
 	url = http://solutions.brother.com/linux/en_us/index.html
@@ -16,5 +16,5 @@ pkgbase = brother-dcpj105
 	md5sums = 978e10976937951c3e5297117356cae3
 	md5sums = 8933006312bde91ccc592be599562c9a
 
-pkgname = brother-dcpj105
+pkgname = brother-dcpj110
 
